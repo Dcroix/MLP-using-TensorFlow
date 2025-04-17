@@ -1,4 +1,2 @@
-# MultiLayerPerceptron
-Train a Multilayer Perceptron Machine learning model for Classification using Tensorflow package. Using the four features (sepal length, sepal width, petal length, and petal width), the model should classify the observation whether it is an iris setosa, iris virginica, or iris versicolor.
-
-This project demonstrated the training of a Multi-Layer Perceptron ML model using Tensorflow library. The ML model has an accuracy of 97.78% for classifying the iris plant whether it is setosa, virginica, or versicolor. 
+# [MultiLayerPerceptron](https://github.com/Dcroix/MultiLayerPerceptron/blob/main/Classification%20of%20Species%20using%20Tensorflow.ipynb)
+In this mini-project, we are going to train a Multilayer Perceptron Machine learning model using Tensorflow to classify the different species of iris plants. Using the four features (sepal length, sepal width, petal length, and petal width), the model should classify the observation whether it is an iris setosa, iris virginica, or iris versicolor.
